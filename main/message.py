@@ -3,7 +3,7 @@ import pywhatkit
 
 # Define recipient number and message
 recipient_number = "[no.]"
-message = "Hello from Python!"
+message = "message"
 
 #set time 24 hrs. format
 time_hour = 00
